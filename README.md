@@ -1,3 +1,7 @@
+⚠️ Legal Notice: 
+This project is private and all rights are reserved. You are not allowed to use, copy, or modify any part of this code without prior written permission from the author.
+
+
 🛰️ Ping Checker Bash Script
 
 A simple Bash tool that checks whether an IP address or website is reachable.
